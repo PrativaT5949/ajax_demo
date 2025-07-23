@@ -5,7 +5,8 @@ body {
   text-align: center;
 }
 
-input, button {
+input,
+button {
   padding: 0.5rem;
   margin-top: 0.5rem;
 }
